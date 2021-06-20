@@ -24,7 +24,7 @@ CardGlass(
 ```
 <img src="docs/card_circle.png" alt="glass card circle" height="500">
 
-Você pode usar criar cartões como:
+You can use create cards like:
 
 <img src="docs/card_credit.png" alt="glass card credit" height="500">
 <img src="docs/card_battery.png" alt="glass card credit" height="500">
