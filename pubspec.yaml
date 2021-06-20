@@ -1,7 +1,8 @@
 name: glass_card
 description: Plugin flutter with glass cards.
 version: 0.0.1
-homepage:
+homepage: https://github.com/iranjunior/glass_card#readme
+repository: https://github.com/iranjunior/glass_card
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
